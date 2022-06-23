@@ -1,74 +1,74 @@
 {
 	"order" : [
 		{
-			"id": "245786",
+			"id": "0",
 			"order_date": "03-01-2022",
-			"item_price": "2000",
+			"item_price": 2000,
 			"company": "isystems",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "2456",
 			"order_status": "pending",
 			"item_name": "water_17L_container",
-			"item_quantity": "12"
+			"item_quantity": 12
 		},
 		{
-			"id": "936713",
+			"id": "1",
 			"order_date": "03-01-2022",
-			"item_price": "2250",
+			"item_price": 2250,
 			"company": "maya",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "9313",
 			"order_status": "accepted",
 			"item_name": "water_200cc_glass",
-			"item_quantity": "25"
+			"item_quantity": 25
 		},
 		{
-			"id": "874243",
+			"id": "2",
 			"order_date": "03-01-2022",
-			"item_price": "1000",
+			"item_price": 1000,
 			"company": "barly",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "8743",
 			"order_status": "rejected",
 			"item_name": "waterBottle_0.5L_box",
-			"item_quantity": "17"
+			"item_quantity": 17
 		},
 		{
-			"id": "147529",
+			"id": "3",
 			"order_date": "03-01-2022",
-			"item_price": "1750",
+			"item_price": 1750,
 			"company": "rotana",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "1429",
 			"order_status": "accepted",
 			"item_name": "waterBottle_0.33L_box",
-			"item_quantity": "31"
+			"item_quantity": 31
 		},
 		{
-			"id": "195268",
+			"id": "4",
 			"order_date": "03-01-2022",
-			"item_price": "1250",
+			"item_price": 1250,
 			"company": "sanis",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "1968",
 			"order_status": "rejected",
 			"item_name": "waterBottle_1.5L_box",
-			"item_quantity": "7"
+			"item_quantity": 7
 		},
 		{
-			"id": "172595",
+			"id": "5",
 			"order_date": "03-01-2022",
-			"item_price": "2000",
+			"item_price": 2000,
 			"company": "gym",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "1795",
 			"order_status": "pending",
 			"item_name": "water_17L_container",
-			"item_quantity": "25"
+			"item_quantity": 25
 		},
 		{
-			"id": "527952",
+			"id": "6",
 			"order_date": "03-01-2022",
-			"item_price": "2250",
+			"item_price": 2250,
 			"company": "cafe",
-			"order_number": "Sarah.Abs@gmail.com",
+			"order_number": "5252",
 			"order_status": "pending",
 			"item_name": "water_200cc_glass",
-			"item_quantity": "37"
+			"item_quantity": 37
 		}
 	]
 }
