@@ -1,6 +1,7 @@
 {
-	"first-order" : [
+	"order" : [
 		{
+			"id": "245786",
 			"order_date": "03-01-2022",
 			"item_price": "2000",
 			"company": "isystems",
@@ -8,10 +9,9 @@
 			"order_status": "pending",
 			"item_name": "water_17L_container",
 			"item_quantity": "12"
-		}
-	],
-	"second-order" : [
+		},
 		{
+			"id": "936713",
 			"order_date": "03-01-2022",
 			"item_price": "2250",
 			"company": "maya",
@@ -19,10 +19,9 @@
 			"order_status": "accepted",
 			"item_name": "water_200cc_glass",
 			"item_quantity": "25"
-		}
-	],
-	"third-order" : [
+		},
 		{
+			"id": "874243",
 			"order_date": "03-01-2022",
 			"item_price": "1000",
 			"company": "barly",
@@ -30,10 +29,9 @@
 			"order_status": "rejected",
 			"item_name": "waterBottle_0.5L_box",
 			"item_quantity": "17"
-		}
-	],
-	"fourth-order" : [
+		},
 		{
+			"id": "147529",
 			"order_date": "03-01-2022",
 			"item_price": "1750",
 			"company": "rotana",
@@ -41,10 +39,9 @@
 			"order_status": "accepted",
 			"item_name": "waterBottle_0.33L_box",
 			"item_quantity": "31"
-		}
-	],
-	"fifth-order" : [
+		},
 		{
+			"id": "195268",
 			"order_date": "03-01-2022",
 			"item_price": "1250",
 			"company": "sanis",
@@ -52,10 +49,9 @@
 			"order_status": "rejected",
 			"item_name": "waterBottle_1.5L_box",
 			"item_quantity": "7"
-		}
-	],
-	"sixth-order" : [
+		},
 		{
+			"id": "172595",
 			"order_date": "03-01-2022",
 			"item_price": "2000",
 			"company": "gym",
@@ -63,10 +59,9 @@
 			"order_status": "pending",
 			"item_name": "water_17L_container",
 			"item_quantity": "25"
-		}
-	],
-	"seventh-order" : [
+		},
 		{
+			"id": "527952",
 			"order_date": "03-01-2022",
 			"item_price": "2250",
 			"company": "cafe",
