@@ -69,16 +69,6 @@
 			"order_status": "pending",
 			"item_name": "water_200cc_glass",
 			"item_quantity": 37
-		},
-		{
-			"id": "7",
-			"order_date": "07-11-2022",
-			"item_price": 1250,
-			"company": "cheche",
-			"order_number": "3795",
-			"order_status": "done",
-			"item_name": "waterBottle_0.33L_box",
-			"item_quantity": 15
 		}
 	]
 }
